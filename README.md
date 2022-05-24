@@ -3,5 +3,5 @@ Modern JavaScript-based web development. The main focus is on building single pa
 
 
 # Part 0 - Fundamental of Web Apps
-*General info
-*Fundamentals of Web Apps
+* General info
+* Fundamentals of Web Apps
